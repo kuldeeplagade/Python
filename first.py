@@ -4,4 +4,4 @@ b = input('Enter second number: ')
 
 sum = float(a) + float(b)
 
-print('The sum ot two nu')
+print('The sum ot two number')
