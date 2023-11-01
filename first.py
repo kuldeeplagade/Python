@@ -1,7 +1,4 @@
-
-a = input('Enter first number: ')
-b = input('Enter second number: ')
-
-sum = float(a) + float(b)
-
-print('The sum ot two number')
+a = float(input("Enter first number:"))
+b = float(input("Enter second number: "))
+sum = a + b
+print("The sum ot two number",sum)
